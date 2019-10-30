@@ -1,7 +1,7 @@
 # nordvpn-http-proxies
 Get the NordVPN servers that are HTTP and HTTPS. The config.js allow to filter the servers by load, country and proxy type.
 
-A build application is available to download for Windows 64 bits and Linux 64 bits inside the dist folder.
+A built application is available to download for Windows 64 bits and Linux 64 bits inside the dist folder.
 
 This are the different options for the config.js 
 
