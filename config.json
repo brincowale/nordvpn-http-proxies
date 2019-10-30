@@ -1,0 +1,5 @@
+{
+  "max_load": 40,
+  "country_code": ["ES", "FR", "IT", "DE"],
+  "proxy": "proxy_ssl"
+}
