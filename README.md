@@ -1,3 +1,5 @@
+EDIT 2020-01-18: THE MAJORITY OF SERVERS FROM NORDVPN DOESN'T ALLOW TO CONNECT WITH HTTP OR HTTPS PROXY
+
 # nordvpn-http-proxies
 Get the NordVPN servers that are HTTP and HTTPS. The config.js allow to filter the servers by load, country and proxy type.
 
